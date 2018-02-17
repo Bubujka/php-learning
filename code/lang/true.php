@@ -3,3 +3,7 @@
 /*
 Значение TRUE
 */
+
+var_dump(true);
+
+

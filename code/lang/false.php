@@ -3,3 +3,7 @@
 /*
 Значение FALSE
 */
+
+var_dump(false);
+
+
