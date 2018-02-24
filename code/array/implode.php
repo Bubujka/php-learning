@@ -3,3 +3,7 @@
 /*
 Объединить массив в 1 строку
 */
+
+$names = ['bubujka', 'zuzujka', 'jujujka'];
+echo implode(", ", $names);
+
