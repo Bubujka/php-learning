@@ -3,3 +3,7 @@
 /*
 Получить имя файла из пути
 */
+
+echo basename('helo/fucking/world/me.jpg');
+
+
