@@ -3,3 +3,7 @@
 /*
 Симлинк раскрыть
 */
+
+echo readlink('_stub/symlink');
+
+
